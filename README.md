@@ -22,10 +22,14 @@ To learn more about Next.js, take a look at the following resources:
 ## Environment Setup!
 - Download Visual Studio Code!
 - Download Github Desktop!
+- Clone the repository
+  - Go to Github Desktop
+  - Click 'Clone repository'
+  - Clone 'Pinewood-Tech-Club/CollegeWebsite-2.0
 - Download Homebrew
 - Install ‘node’
-- ‘brew install node in terminal’
+  - ‘brew install node in terminal’
 - Install NPM packages
-- ‘npm install’
+  - ‘npm install’
 - Run the website! 
-- ‘npm run dev’
+  - ‘npm run dev’
