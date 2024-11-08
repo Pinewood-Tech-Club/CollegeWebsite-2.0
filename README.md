@@ -18,3 +18,14 @@ To learn more about Next.js, take a look at the following resources:
 
 - [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
 - [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+
+## Environment Setup!
+- Download Visual Studio Code!
+- Download Github Desktop!
+- Download Homebrew
+- Install ‘node’
+- ‘brew install node in terminal’
+- Install NPM packages
+- ‘npm install’
+- Run the website! 
+- ‘npm run dev’
